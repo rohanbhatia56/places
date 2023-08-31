@@ -12,6 +12,9 @@ const todos = [
     { id: 1, text: 'dominos', marker: "dominos.png", content: "dominos.obj" },
     { id: 2, text: 'ccd', marker: "ccd.png", content: "ccd.obj" },
     { id: 3, text: 'starbuks', marker: "starbuks.png", content: "starbuks.obj" },
+    { id: 4, text: 'sodi', marker: "sodi.jpg", content: "sodi.obj" },
+    { id: 5, text: 'juice', marker: "juice.jpg", content: "juice.obj" },
+    { id: 6, text: 'giani', marker: "giani.jpg", content: "giani.obj" },
 ];
 
 // Get all todos
